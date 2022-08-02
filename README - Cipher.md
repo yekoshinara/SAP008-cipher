@@ -24,7 +24,7 @@ substituida por outra que se encontra há um número fixo de posições
 
 ## 2. Resumo do projeto
 
-Neste projeto, desenvolvimento durante a formação da 9 turma da Laboratória, a página foi pensada para um cenário inspirado na série "Prison Break" em que dois irmãos utilizam diversas técnicas para conseguir fazer com que um deles escape da cadeira elétrica.
+Neste projeto, desenvolvido durante a formação da 8 turma da Laboratória, a página foi pensada para um cenário inspirado na série "Prison Break" em que dois irmãos utilizam diversas técnicas para conseguir fazer com que um deles escape da cadeira elétrica.
 
 Na página inicial, o usuário insere um texto a ser codificado através da Cifra de César para que essa mensagem possa ser transmitida em segurança. Há também a possibilidade de decifrar a mensagem, realizando assim a tradução do texto original.
 
