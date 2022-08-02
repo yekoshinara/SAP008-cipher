@@ -11,7 +11,7 @@ cifrar.addEventListener("click", function (e) {
     msgInserida = msgInserida.toUpperCase();
     
     let msgCodificada = cipher.encode(valorDesloc, msgInserida);
-    document.getElementById("textoResultado").value = "Sua mensagem codificada:" + msgCodificada;
+    document.getElementById("textoResultado").value = msgCodificada;
     console.log(msgCodificada)
     
 })
@@ -27,8 +27,7 @@ decifrar.addEventListener("click", function (e) {
     msgInserida = msgInserida.toUpperCase();
     
     let msgDecodificada = cipher.decode(valorDesloc, msgInserida);
-    document.getElementById("textoResultado").innerHTML = 
-    ("Sua mensagem decodificada:" + msgDecodificada);
+    document.getElementById("textoResultado").value = msgDecodificada;
     console.log(msgDecodificada)
 })
 
